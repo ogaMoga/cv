@@ -1,37 +1,81 @@
-## Welcome to GitHub Pages
+# Sergey Saakyan
 
-You can use the [editor on GitHub](https://github.com/ogaMoga/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Android developer based in Saint Petersburg, Russia_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:ogamoga.dev@gmail.com) / [Telegram](https://t.me/ogamoga/) / [GitHub](https://github.com/ogamoga/)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 🛠 Skills
 
-```markdown
-Syntax highlighted code block
+ - Java
+ - Kotlin
+ - SQL
+ - Android
+ - Retrofit 2
+ - Room
+ - Koin
+ - Git
+ - Gradle
+ - SOLID
+ - Clean Architecture
+<br><br>
 
-# Header 1
-## Header 2
-### Header 3
+## 👨‍💻 Work Experience
 
-- Bulleted
-- List
+**Study projects**
+<br><br>
+    
+## 💼 Projects
 
-1. Numbered
-2. List
+**StudServices** @ [GitHub](https://github.com/studservices/studservices-android/) <br>
+Application for convenient exchange of services between students.
 
-**Bold** and _Italic_ and `Code` text
+  - **_Stack:_**
+    - Kotlin
+    - Retrofit 2
+    - Room
+    - Dagger 2
+    - Firebase
+    - FragNav
+    - MVP
+<br><br>
 
-[Link](url) and ![Image](src)
-```
+**PolyCareer** @ [GitHub](https://github.com/polycareer/polycareer-android/) <br>
+Application for vocational guidance of SPbSTU computer science applicants.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  - **_Stack:_**
+    - Kotlin
+    - Retrofit 2
+    - Room
+    - Koin
+    - NavComponent
+    - MVI
+<br><br>
 
-### Jekyll Themes
+## 👨‍🎓 Education
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ogaMoga/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Peter the Great St.Petersburg Polytechnic University**<br> 
 
-### Support or Contact
+  - Institute of Computer Science and Technology<br> 
+  - Mathematical Software and Information Systems Administration<br> 
+  _2019 - now_
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**TechnoPolis Mail.ru**
+
+  - Advanced Java
+  - Algorithms and data structures
+  - Android development
+  - Working with databases<br>
+  _2020 - now_
+
+## 📌 Cources
+
+  - Coursera: Kotlin for Java developers
+  - Developer.Android: Android Kotlin fundamentals
+  - Coursera: Version control with Git
+
+## 💬 Languages
+
+**Russian**: Native speaker <br>
+**English**: Intermediate (B1)
+<br><br>
