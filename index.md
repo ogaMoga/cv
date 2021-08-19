@@ -64,7 +64,7 @@ Application for vocational guidance of SPbSTU computer science applicants.
 
 **TechnoPolis by Mail.ru Group**
 
-Two years education program of [Java developer of high load systems](https://polis.mail.ru/)
+Two years education program - [Java development of high load systems](https://polis.mail.ru/)
   - Advanced Java
   - Algorithms and data structures
   - Android development
